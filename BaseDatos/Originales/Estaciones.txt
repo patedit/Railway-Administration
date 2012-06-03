@@ -1,0 +1,15 @@
+ ---------------------------------------------------------------------------- 
+ ID    Nombre                    Poblacion                  Latitud  Longitud  
+ ---------------------------------------------------------------------------- 
+ 10500 Medina del Campo          Medina del Campo            41.319    -4.909  
+ 60905 Elda-Petrer               Alicante                    38.486    -0.800  
+ 10400 Avila                     Avila                       40.658    -4.682  
+ 14107 Osorno                    Palencia                    42.415    -4.356  
+ 11100 Burgos                    Burgos                      42.336    -3.706  
+ 14100 Palencia                  Palencia                    42.017    -4.533  
+ 30100 Salamanca                 Salamanca                   40.973    -5.647  
+ 17000 Chamartin                 Madrid                      40.473    -3.681  
+ 10602 Cabez¢n de Pisuerga       Valladolid                  41.738    -4.650  
+ 10409 Ar‚valo                   µvila                       41.049    -4.701  
+ 18000 Atocha                    Madrid                      40.407    -3.688  
+ ---------------------------------------------------------------------------- 

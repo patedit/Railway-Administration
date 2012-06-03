@@ -1,0 +1,80 @@
+ ---------------------------------------------------------------------------- 
+ ID    Nombre                    Poblacion                  Latitud  Longitud  
+ ---------------------------------------------------------------------------- 
+ 04040 Zaragoza-Delicias         Zaragoza                    41.658    -0.911  
+ 08004 Segovia AVE               Segovia                     40.935    -4.112  
+ 10200 Villalba de Guadarrama    Madrid                      40.628    -4.006  
+ 10203 El Escorial               Madrid                      40.585    -4.132  
+ 10204 Zarzalejo (apt)           Madrid                      40.540    -4.157  
+ 10205 Robledo de Chavela (apt-cgd) Madrid                      40.520    -4.247  
+ 10206 Santa María de la Alameda Madrid                      40.569    -4.269  
+ 10207 Las Navas del Marqués     Ávila                       40.591    -4.360  
+ 10208 Navalperal de Pinares     Ávila                       40.592    -4.407  
+ 10300 Herradón-La Cañada        Ávila                       40.599    -4.495  
+ 10400 Ávila                     Ávila                       40.658    -4.682  
+ 10409 Arévalo                   Ávila                       41.049    -4.701  
+ 10500 Medina del Campo          Valladolid                  41.319    -4.909  
+ 10600 Valladolid-Campo Grande   Valladolid                  41.644    -4.724  
+ 11000 Venta de Baños            Palencia                    41.914    -4.501  
+ 11100 Burgos                    Burgos                      42.336    -3.706  
+ 11109 Briviesca                 Burgos                      42.544    -3.318  
+ 11200 Miranda de Ebro           Burgos                      42.690    -2.949  
+ 11208 Vitoria/Gasteiz           Alava                       42.842    -2.672  
+ 14100 Palencia                  Palencia                    42.017    -4.533  
+ 14114 Aguilar de Campoo         Palencia                    42.787    -4.232  
+ 14202 Reinosa                   Cantabria                   42.996    -4.139  
+ 14213 Torrelavega               Cantabria                   43.352    -4.050  
+ 14223 Santander                 Cantabria                   43.459    -3.810  
+ 15004 Paredes de Nava           Palencia                    42.152    -4.696  
+ 15007 Villada                   Palencia                    42.246    -4.969  
+ 15009 Sahagún                   León                        42.371    -5.021  
+ 15100 León                      León                        42.605    -5.570  
+ 15122 Pola de Lena              Asturias                    43.160    -5.830  
+ 15203 Mieres-Puente             Asturias                    43.250    -5.782  
+ 15211 Oviedo                    Asturias                    43.369    -5.852  
+ 15403 Gijón-Cercanías           Asturias                    43.540    -5.667  
+ 17000 Madrid-Chamartín          Madrid                      40.473    -3.681  
+ 18000 Madrid-Atocha-Cercanías   Madrid                      40.407    -3.688  
+ 20005 Veguellina de Órbigo      León                        42.433    -5.887  
+ 20100 Astorga                   León                        42.460    -6.046  
+ 20111 Bembibre                  Léon                        42.610    -6.423  
+ 20200 Ponferrada                León                        42.546    -6.601  
+ 20211 O Barco de Valdeorras     Ourense                     42.418    -6.985  
+ 20213 A Rua Petín               Orense                      42.393    -7.112  
+ 20216 San Clodio-Quiroga        Lugo                        42.466    -7.289  
+ 20300 Monforte de Lemos         Lugo                        42.532    -7.501  
+ 20305 Sarriá                    Lugo                        42.786    -7.417  
+ 20309 Lugo                      Lugo                        43.017    -7.553  
+ 20314 Guitiriz                  Lugo                        43.180    -7.896  
+ 20317 Curtis                    A Coruña                    43.128    -8.148  
+ 20400 Betanzos-Infesta          A Coruña                    43.271    -8.225  
+ 21001 Betanzos-Cidade           A Coruña                    43.285    -8.214  
+ 21004 Pontedeume                A Coruña                    43.413    -8.179  
+ 21010 Ferrol                    A Coruña                    43.490    -8.228  
+ 30100 Salamanca                 Salamanca                   40.973    -5.647  
+ 31412 A Coruña-San Cristóbal    A Coruña                    43.352    -8.410  
+ 32004 Cantalapiedra             Salamanca                   41.135    -5.182  
+ 60200 Aranjuez                  Madrid                      40.036    -3.617  
+ 60400 Alcázar de San Juan       Ciudad Real                 39.397    -3.204  
+ 60600 Albacete                  Albacete                    39.001    -1.847  
+ 60800 Almansa                   Albacete                    38.868    -1.106  
+ 60902 Villena                   Alicante                    38.632    -0.866  
+ 60905 Elda-Petrer               Alicante                    38.486    -0.800  
+ 60911 Alacant-Terminal          Alicante                    38.344    -0.495  
+ 71400 Reus                      Tarragona                   41.161     1.101  
+ 71500 Tarragona                 Tarragona                   41.111     1.223  
+ 71600 Sant Vicenç de Calders    Tarragona                   41.204     1.515  
+ 71801 Barcelona-Sants           Barcelona                   41.375     2.135  
+ 76004 Valls                     Tarragona                   41.289     1.259  
+ 78200 Tardienta                 Huesca                      41.977    -0.539  
+ 78301 Monzón - Río Cinca        Huesca                      41.915     0.200  
+ 78400 Lleida                    Lleida                      41.622     0.634  
+ 80100 Pamplona                  Navarra                     42.826    -1.660  
+ 80108 Tafalla                   Navarra                     42.527    -1.670  
+ 81002 Haro                      La Rioja                    42.584    -2.847  
+ 81100 Logroño                   La Rioja                    42.459    -2.441  
+ 81108 Calahorra                 La Rioja                    42.312    -1.957  
+ 81110 Alfaro                    La Rioja                    42.186    -1.748  
+ 81200 Castejón de Ebro          Navarra                     42.173    -1.696  
+ 81202 Tudela                    Navarra                     42.060    -1.596  
+ ---------------------------------------------------------------------------- 

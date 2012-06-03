@@ -1,0 +1,338 @@
+ 00530 Salamanca               Cantalapiedra           08:00  08:28   1.98  
+ 00530 Cantalapiedra           Medina del Campo        08:29  08:49   1.41  
+ 00530 Medina del Campo        Valladolid-Campo Grande 08:50  09:16   1.84  
+ 00530 Valladolid-Campo Grande Burgos                  09:18  10:26   4.80  
+ 00530 Burgos                  Miranda de Ebro         10:28  11:33   4.59  
+ 00530 Miranda de Ebro         Haro                    11:51  12:08   1.20  
+ 00530 Haro                    Logroño                 12:09  12:44   2.47  
+ 00530 Logroño                 Calahorra               12:46  13:16   2.12  
+ 00530 Calahorra               Alfaro                  13:17  13:29   0.85  
+ 00530 Alfaro                  Castejón de Ebro        13:30  13:36   0.42  
+ 00530 Castejón de Ebro        Tudela                  13:45  14:00   1.06  
+ 00530 Tudela                  Zaragoza-Delicias       14:01  14:40   2.75  
+ 00530 Zaragoza-Delicias       Monzón - Río Cinca      14:45  16:13   6.21  
+ 00530 Monzón - Río Cinca      Lleida                  16:15  16:49   2.40  
+ 00530 Lleida                  Reus                    16:51  18:01   4.94  
+ 00530 Reus                    Tarragona               18:03  18:14   0.78  
+ 00530 Tarragona               Barcelona-Sants         18:16  19:21   4.59  
+ 00533 Barcelona-Sants         Tarragona               12:30  13:25   4.10  
+ 00533 Tarragona               Reus                    13:27  13:39   0.90  
+ 00533 Reus                    Lleida                  13:41  14:39   4.33  
+ 00533 Lleida                  Monzón - Río Cinca      14:41  15:24   3.21  
+ 00533 Monzón - Río Cinca      Zaragoza-Delicias       15:26  16:43   5.75  
+ 00533 Zaragoza-Delicias       Tudela                  16:48  17:23   2.61  
+ 00533 Tudela                  Castejón de Ebro        17:24  17:37   0.97  
+ 00533 Castejón de Ebro        Alfaro                  17:55  18:01   0.45  
+ 00533 Alfaro                  Calahorra               18:02  18:14   0.90  
+ 00533 Calahorra               Logroño                 18:15  18:46   2.31  
+ 00533 Logroño                 Haro                    18:48  19:24   2.69  
+ 00533 Haro                    Miranda de Ebro         19:25  19:43   1.34  
+ 00533 Miranda de Ebro         Burgos                  20:05  21:04   4.40  
+ 00533 Burgos                  Valladolid-Campo Grande 21:06  22:15   5.15  
+ 00533 Valladolid-Campo Grande Medina del Campo        22:17  22:39   1.64  
+ 00533 Medina del Campo        Cantalapiedra           22:40  23:00   1.49  
+ 00533 Cantalapiedra           Salamanca               23:01  23:30   2.16  
+ 00620 A Coruña-San Cristóbal  Betanzos-Infesta        07:05  07:29   1.28  
+ 00620 Betanzos-Infesta        Curtis                  07:30  08:01   1.66  
+ 00620 Curtis                  Guitiriz                08:02  08:20   0.96  
+ 00620 Guitiriz                Lugo                    08:21  08:52   1.66  
+ 00620 Lugo                    Sarriá                  08:53  09:25   1.71  
+ 00620 Sarriá                  Monforte de Lemos       09:26  09:56   1.60  
+ 00620 Monforte de Lemos       San Clodio-Quiroga      10:15  10:37   1.18  
+ 00620 San Clodio-Quiroga      A Rua Petín             10:38  10:57   1.02  
+ 00620 A Rua Petín             O Barco de Valdeorras   10:58  11:07   0.48  
+ 00620 O Barco de Valdeorras   Ponferrada              11:08  11:41   1.77  
+ 00620 Ponferrada              Bembibre                11:42  11:55   0.70  
+ 00620 Bembibre                Astorga                 11:56  12:37   2.19  
+ 00620 Astorga                 León                    12:38  13:08   1.60  
+ 00620 León                    Sahagún                 13:21  13:50   1.55  
+ 00620 Sahagún                 Palencia                13:51  14:22   1.66  
+ 00620 Palencia                Burgos                  14:23  15:06   2.30  
+ 00620 Burgos                  Miranda de Ebro         15:07  16:00   2.84  
+ 00620 Miranda de Ebro         Vitoria/Gasteiz         16:01  16:22   1.12  
+ 00620 Vitoria/Gasteiz         Pamplona                16:23  17:16   2.84  
+ 00620 Pamplona                Tafalla                 17:17  17:50   1.77  
+ 00620 Tafalla                 Castejón de Ebro        17:51  18:15   1.28  
+ 00620 Castejón de Ebro        Tudela                  18:16  18:26   0.53  
+ 00620 Tudela                  Zaragoza-Delicias       18:27  19:05   2.03  
+ 00620 Zaragoza-Delicias       Tardienta               19:08  20:00   2.78  
+ 00620 Tardienta               Monzón - Río Cinca      20:01  20:36   1.87  
+ 00620 Monzón - Río Cinca      Lleida                  20:38  21:12   1.82  
+ 00620 Lleida                  Valls                   21:14  22:04   2.67  
+ 00620 Valls                   Sant Vicenç de Calders  22:06  22:26   1.07  
+ 00620 Sant Vicenç de Calders  Barcelona-Sants         22:27  23:24   3.05  
+ 00623 Barcelona-Sants         Sant Vicenç de Calders  07:03  07:43   2.27  
+ 00623 Sant Vicenç de Calders  Valls                   07:44  08:02   1.02  
+ 00623 Valls                   Lleida                  08:04  08:55   2.89  
+ 00623 Lleida                  Monzón - Río Cinca      08:57  09:32   1.98  
+ 00623 Monzón - Río Cinca      Tardienta               09:34  10:08   1.93  
+ 00623 Tardienta               Zaragoza-Delicias       10:09  10:45   2.04  
+ 00623 Zaragoza-Delicias       Tudela                  10:50  11:28   2.15  
+ 00623 Tudela                  Castejón de Ebro        11:29  11:40   0.62  
+ 00623 Castejón de Ebro        Tafalla                 11:41  12:05   1.36  
+ 00623 Tafalla                 Pamplona                12:06  12:35   1.64  
+ 00623 Pamplona                Vitoria/Gasteiz         12:36  13:24   2.72  
+ 00623 Vitoria/Gasteiz         Miranda de Ebro         13:25  13:44   1.08  
+ 00623 Miranda de Ebro         Burgos                  13:45  14:41   3.17  
+ 00623 Burgos                  Palencia                14:42  15:30   2.72  
+ 00623 Palencia                Sahagún                 15:31  16:03   1.81  
+ 00623 Sahagún                 León                    16:04  16:37   1.87  
+ 00623 León                    Astorga                 16:40  17:09   1.64  
+ 00623 Astorga                 Bembibre                17:10  17:55   2.55  
+ 00623 Bembibre                Ponferrada              17:56  18:10   0.79  
+ 00623 Ponferrada              O Barco de Valdeorras   18:11  18:45   1.93  
+ 00623 O Barco de Valdeorras   A Rua Petín             18:46  18:56   0.57  
+ 00623 A Rua Petín             San Clodio-Quiroga      18:57  19:17   1.13  
+ 00623 San Clodio-Quiroga      Monforte de Lemos       19:18  19:42   1.36  
+ 00623 Monforte de Lemos       Sarriá                  19:53  20:19   1.47  
+ 00623 Sarriá                  Lugo                    20:20  20:57   2.10  
+ 00623 Lugo                    Guitiriz                20:59  21:27   1.59  
+ 00623 Guitiriz                Curtis                  21:28  21:46   1.02  
+ 00623 Curtis                  Betanzos-Infesta        21:47  22:15   1.59  
+ 00751 Madrid-Chamartín        Ávila                   22:10  23:34   7.80  
+ 00751 Ávila                   Medina del Campo        23:36  00:14   3.53  
+ 00751 Medina del Campo        Valladolid-Campo Grande 00:15  00:35   1.86  
+ 00751 Valladolid-Campo Grande Venta de Baños          00:37  00:55   1.67  
+ 00751 Venta de Baños          Palencia                00:56  01:02   0.56  
+ 00751 Palencia                León                    01:04  02:02   5.39  
+ 00751 León                    Veguellina de Órbigo    02:04  02:24   1.86  
+ 00751 Veguellina de Órbigo    Astorga                 02:25  02:34   0.84  
+ 00751 Astorga                 Bembibre                02:35  03:19   4.09  
+ 00751 Bembibre                Ponferrada              03:20  03:35   1.39  
+ 00751 Ponferrada              O Barco de Valdeorras   03:36  04:18   3.90  
+ 00751 O Barco de Valdeorras   A Rua Petín             04:19  04:30   1.02  
+ 00751 A Rua Petín             San Clodio-Quiroga      04:31  04:53   2.04  
+ 00751 San Clodio-Quiroga      Monforte de Lemos       04:54  05:21   2.51  
+ 00751 Monforte de Lemos       Sarriá                  05:41  06:07   2.41  
+ 00751 Sarriá                  Lugo                    06:08  06:38   2.79  
+ 00751 Lugo                    Guitiriz                06:40  07:09   2.69  
+ 00751 Guitiriz                Curtis                  07:10  07:27   1.58  
+ 00751 Curtis                  Betanzos-Infesta        07:29  07:53   2.23  
+ 00751 Betanzos-Infesta        Betanzos-Cidade         07:54  08:19   2.32  
+ 00751 Betanzos-Cidade         Pontedeume              08:20  08:38   1.67  
+ 00751 Pontedeume              Ferrol                  08:39  09:00   1.95  
+ 00752 Ferrol                  Pontedeume              21:00  21:22   2.01  
+ 00752 Pontedeume              Betanzos-Cidade         21:23  21:45   2.01  
+ 00752 Betanzos-Cidade         Betanzos-Infesta        21:46  21:54   0.73  
+ 00752 Betanzos-Infesta        Curtis                  21:55  22:19   2.19  
+ 00752 Curtis                  Guitiriz                22:20  22:37   1.55  
+ 00752 Guitiriz                Lugo                    22:38  23:06   2.55  
+ 00752 Lugo                    Sarriá                  23:07  23:36   2.65  
+ 00752 Sarriá                  Monforte de Lemos       23:37  00:06   2.65  
+ 00752 Monforte de Lemos       San Clodio-Quiroga      00:26  00:50   2.19  
+ 00752 San Clodio-Quiroga      A Rua Petín             00:51  01:12   1.92  
+ 00752 A Rua Petín             O Barco de Valdeorras   01:13  01:24   1.00  
+ 00752 O Barco de Valdeorras   Ponferrada              01:25  02:02   3.38  
+ 00752 Ponferrada              Bembibre                02:03  02:17   1.28  
+ 00752 Bembibre                Astorga                 02:18  03:01   3.92  
+ 00752 Astorga                 Veguellina de Órbigo    03:02  03:11   0.82  
+ 00752 Veguellina de Órbigo    León                    03:12  03:32   1.82  
+ 00752 León                    Palencia                03:34  04:32   5.29  
+ 00752 Palencia                Venta de Baños          04:34  04:44   0.91  
+ 00752 Venta de Baños          Valladolid-Campo Grande 04:45  05:05   1.82  
+ 00752 Valladolid-Campo Grande Medina del Campo        05:07  05:29   2.01  
+ 00752 Medina del Campo        Ávila                   05:31  06:16   4.10  
+ 00752 Ávila                   Madrid-Chamartín        06:18  08:00   9.30  
+ 00920 A Coruña-San Cristóbal  Betanzos-Infesta        18:00  18:27   1.34  
+ 00920 Betanzos-Infesta        Curtis                  18:28  18:55   1.34  
+ 00920 Curtis                  Lugo                    18:56  19:48   2.59  
+ 00920 Lugo                    Sarriá                  19:50  20:20   1.49  
+ 00920 Sarriá                  Monforte de Lemos       20:21  20:52   1.54  
+ 00920 Monforte de Lemos       San Clodio-Quiroga      21:10  21:34   1.20  
+ 00920 San Clodio-Quiroga      A Rua Petín             21:35  21:56   1.05  
+ 00920 A Rua Petín             O Barco de Valdeorras   21:57  22:08   0.55  
+ 00920 O Barco de Valdeorras   Ponferrada              22:09  22:46   1.84  
+ 00920 Ponferrada              Astorga                 22:47  23:47   2.99  
+ 00920 Astorga                 León                    23:48  00:20   1.59  
+ 00920 León                    Palencia                00:25  01:28   3.14  
+ 00920 Palencia                Burgos                  01:30  02:15   2.24  
+ 00920 Burgos                  Logroño                 02:17  04:02   5.23  
+ 00920 Logroño                 Castejón de Ebro        04:04  04:56   2.59  
+ 00920 Castejón de Ebro        Tudela                  04:57  05:09   0.60  
+ 00920 Tudela                  Zaragoza-Delicias       05:10  05:55   2.24  
+ 00920 Zaragoza-Delicias       Monzón - Río Cinca      06:00  07:16   3.78  
+ 00920 Monzón - Río Cinca      Lleida                  07:17  08:01   2.19  
+ 00920 Lleida                  Reus                    08:03  09:24   4.03  
+ 00920 Reus                    Tarragona               09:26  09:42   0.80  
+ 00920 Tarragona               Barcelona-Sants         09:43  11:08   4.23  
+ 00923 Barcelona-Sants         Tarragona               20:00  20:54   2.88  
+ 00923 Tarragona               Reus                    20:56  21:08   0.64  
+ 00923 Reus                    Lleida                  21:10  22:17   3.57  
+ 00923 Lleida                  Monzón - Río Cinca      22:19  22:56   1.97  
+ 00923 Monzón - Río Cinca      Zaragoza-Delicias       22:57  00:10   3.89  
+ 00923 Zaragoza-Delicias       Tudela                  00:15  00:53   2.03  
+ 00923 Tudela                  Castejón de Ebro        00:54  01:05   0.59  
+ 00923 Castejón de Ebro        Logroño                 01:06  01:56   2.66  
+ 00923 Logroño                 Burgos                  01:58  03:41   5.49  
+ 00923 Burgos                  Palencia                03:43  04:28   2.40  
+ 00923 Palencia                León                    04:30  05:35   3.46  
+ 00923 León                    Astorga                 05:40  06:08   1.49  
+ 00923 Astorga                 Ponferrada              06:09  07:11   3.30  
+ 00923 Ponferrada              O Barco de Valdeorras   07:12  07:51   2.08  
+ 00923 O Barco de Valdeorras   A Rua Petín             07:52  08:02   0.53  
+ 00923 A Rua Petín             San Clodio-Quiroga      08:03  08:24   1.12  
+ 00923 San Clodio-Quiroga      Monforte de Lemos       08:25  08:50   1.33  
+ 00923 Monforte de Lemos       Sarriá                  09:14  09:47   1.76  
+ 00923 Sarriá                  Lugo                    09:48  10:22   1.81  
+ 00923 Lugo                    Curtis                  10:24  11:12   2.56  
+ 00923 Curtis                  Betanzos-Infesta        11:13  11:40   1.44  
+ 00923 Betanzos-Infesta        A Coruña-San Cristóbal  11:41  12:11   1.60  
+ 00930 Salamanca               Cantalapiedra           20:25  20:51   1.73  
+ 00930 Cantalapiedra           Medina del Campo        20:52  21:15   1.53  
+ 00930 Medina del Campo        Valladolid-Campo Grande 21:17  21:39   1.46  
+ 00930 Valladolid-Campo Grande Palencia                21:41  22:16   2.33  
+ 00930 Palencia                Burgos                  22:40  23:23   2.86  
+ 00930 Burgos                  Miranda de Ebro         23:24  00:18   3.59  
+ 00930 Miranda de Ebro         Logroño                 00:43  01:40   3.79  
+ 00930 Logroño                 Calahorra               01:41  02:15   2.26  
+ 00930 Calahorra               Castejón de Ebro        02:16  02:33   1.13  
+ 00930 Castejón de Ebro        Tudela                  02:53  03:03   0.67  
+ 00930 Tudela                  Zaragoza-Delicias       03:04  03:16   0.80  
+ 00930 Zaragoza-Delicias       Monzón - Río Cinca      03:17  05:21   8.25  
+ 00930 Monzón - Río Cinca      Lleida                  05:22  06:12   3.33  
+ 00930 Lleida                  Reus                    06:14  07:17   4.19  
+ 00930 Reus                    Tarragona               07:19  07:34   1.00  
+ 00930 Tarragona               Sant Vicenç de Calders  07:36  07:58   1.46  
+ 00930 Sant Vicenç de Calders  Barcelona-Sants         08:00  09:00   3.99  
+ 00933 Barcelona-Sants         Sant Vicenç de Calders  22:00  22:41   2.81  
+ 00933 Sant Vicenç de Calders  Tarragona               22:42  22:58   1.10  
+ 00933 Tarragona               Reus                    23:00  23:13   0.89  
+ 00933 Reus                    Lleida                  23:14  00:13   4.05  
+ 00933 Lleida                  Monzón - Río Cinca      00:15  00:54   2.68  
+ 00933 Monzón - Río Cinca      Zaragoza-Delicias       00:55  02:14   5.42  
+ 00933 Zaragoza-Delicias       Tudela                  02:15  03:05   3.43  
+ 00933 Tudela                  Castejón de Ebro        03:06  03:16   0.69  
+ 00933 Castejón de Ebro        Calahorra               03:24  03:42   1.24  
+ 00933 Calahorra               Logroño                 03:43  04:18   2.40  
+ 00933 Logroño                 Miranda de Ebro         04:20  05:24   4.39  
+ 00933 Miranda de Ebro         Burgos                  05:44  06:53   4.74  
+ 00933 Burgos                  Palencia                06:54  07:45   3.50  
+ 00933 Palencia                Valladolid-Campo Grande 08:07  08:39   2.20  
+ 00933 Valladolid-Campo Grande Medina del Campo        08:41  09:06   1.72  
+ 00933 Medina del Campo        Cantalapiedra           09:08  09:26   1.24  
+ 00933 Cantalapiedra           Salamanca               09:28  09:56   1.92  
+ 04068 Valladolid-Campo Grande Madrid-Chamartín        06:50  07:52  31.20  
+ 04069 Madrid-Chamartín        Valladolid-Campo Grande 06:35  07:37  31.20  
+ 04070 Gijón-Cercanías         Oviedo                  07:15  07:41   3.83  
+ 04070 Oviedo                  Mieres-Puente           07:43  07:59   2.36  
+ 04070 Mieres-Puente           León                    08:00  09:35  14.00  
+ 04070 León                    Sahagún                 09:37  10:06   4.27  
+ 04070 Sahagún                 Palencia                10:07  10:38   4.57  
+ 04070 Palencia                Valladolid-Campo Grande 10:40  11:12   4.72  
+ 04070 Valladolid-Campo Grande Madrid-Chamartín        11:14  12:29  11.05  
+ 04071 Madrid-Chamartín        Valladolid-Campo Grande 06:50  08:01  10.71  
+ 04071 Valladolid-Campo Grande Palencia                08:03  08:34   4.68  
+ 04071 Palencia                León                    08:36  09:36   9.05  
+ 04071 León                    Oviedo                  09:38  11:26  16.29  
+ 04071 Oviedo                  Gijón-Cercanías         11:28  11:55   4.07  
+ 04072 Santander               Torrelavega             07:05  07:29   2.95  
+ 04072 Torrelavega             Reinosa                 07:30  08:18   5.89  
+ 04072 Reinosa                 Aguilar de Campoo       08:19  08:42   2.82  
+ 04072 Aguilar de Campoo       Palencia                08:43  09:45   7.61  
+ 04072 Palencia                Valladolid-Campo Grande 09:47  10:19   3.93  
+ 04072 Valladolid-Campo Grande Segovia AVE             10:21  11:04   5.28  
+ 04072 Segovia AVE             Madrid-Chamartín        11:06  11:43   4.54  
+ 04072 Madrid-Chamartín        Madrid-Atocha-Cercanías 12:05  12:18   1.60  
+ 04072 Madrid-Atocha-Cercanías Aranjuez                12:20  12:47   3.32  
+ 04072 Aranjuez                Alcázar de San Juan     12:48  13:30   5.16  
+ 04072 Alcázar de San Juan     Albacete                13:31  14:23   6.39  
+ 04072 Albacete                Villena                 14:24  15:12   5.89  
+ 04072 Villena                 Elda-Petrer             15:13  15:23   1.23  
+ 04072 Elda-Petrer             Alacant-Terminal        15:24  15:50   3.19  
+ 04088 Valladolid-Campo Grande Segovia AVE             08:30  09:03  15.84  
+ 04088 Segovia AVE             Madrid-Chamartín        09:05  09:37  15.36  
+ 04089 Madrid-Chamartín        Segovia AVE             08:30  09:00  14.40  
+ 04089 Segovia AVE             Valladolid-Campo Grande 09:02  09:37  16.80  
+ 04119 Madrid-Chamartín        Valladolid-Campo Grande 11:20  12:22  31.20  
+ 04140 Gijón-Cercanías         Oviedo                  14:00  14:26   3.00  
+ 04140 Oviedo                  Mieres-Puente           14:28  14:45   1.96  
+ 04140 Mieres-Puente           Pola de Lena            14:46  14:59   1.50  
+ 04140 Pola de Lena            León                    15:00  16:22   9.48  
+ 04140 León                    Sahagún                 16:24  16:53   3.35  
+ 04140 Sahagún                 Palencia                16:54  17:25   3.58  
+ 04140 Palencia                Valladolid-Campo Grande 17:27  17:59   3.70  
+ 04140 Valladolid-Campo Grande Segovia AVE             18:01  18:44   4.97  
+ 04140 Segovia AVE             Madrid-Chamartín        18:46  19:23   4.28  
+ 04140 Madrid-Chamartín        Madrid-Atocha-Cercanías 19:45  19:58   1.50  
+ 04140 Madrid-Atocha-Cercanías Alcázar de San Juan     20:00  21:08   7.86  
+ 04140 Alcázar de San Juan     Albacete                21:09  22:00   5.89  
+ 04140 Albacete                Almansa                 22:02  22:29   3.12  
+ 04140 Almansa                 Villena                 22:30  22:48   2.08  
+ 04140 Villena                 Elda-Petrer             22:49  22:59   1.16  
+ 04140 Elda-Petrer             Alacant-Terminal        23:00  23:30   3.47  
+ 04141 Alacant-Terminal        Elda-Petrer             10:35  10:55   2.26  
+ 04141 Elda-Petrer             Villena                 10:56  11:05   1.02  
+ 04141 Villena                 Albacete                11:06  11:56   5.66  
+ 04141 Albacete                Madrid-Atocha-Cercanías 11:58  14:14  15.39  
+ 04141 Madrid-Atocha-Cercanías Madrid-Chamartín        14:15  14:28   1.47  
+ 04141 Madrid-Chamartín        Segovia AVE             14:40  15:14   3.85  
+ 04141 Segovia AVE             Valladolid-Campo Grande 15:16  15:59   4.87  
+ 04141 Valladolid-Campo Grande Palencia                16:01  16:32   3.51  
+ 04141 Palencia                Sahagún                 16:34  17:02   3.17  
+ 04141 Sahagún                 León                    17:03  17:37   3.85  
+ 04141 León                    Pola de Lena            17:39  18:57   8.83  
+ 04141 Pola de Lena            Mieres-Puente           18:58  19:08   1.13  
+ 04141 Mieres-Puente           Oviedo                  19:09  19:30   2.38  
+ 04141 Oviedo                  Gijón-Cercanías         19:31  20:02   3.51  
+ 04159 Madrid-Chamartín        Valladolid-Campo Grande 15:15  16:11  31.20  
+ 04180 Gijón-Cercanías         Oviedo                  18:15  18:41   3.86  
+ 04180 Oviedo                  León                    18:43  20:33  16.32  
+ 04180 León                    Palencia                20:35  21:34   8.75  
+ 04180 Palencia                Valladolid-Campo Grande 21:36  22:08   4.75  
+ 04180 Valladolid-Campo Grande Madrid-Chamartín        22:10  23:25  11.13  
+ 04181 Madrid-Chamartín        Valladolid-Campo Grande 18:20  19:35  11.24  
+ 04181 Valladolid-Campo Grande Palencia                19:37  20:04   4.05  
+ 04181 Palencia                Sahagún                 20:06  20:34   4.20  
+ 04181 Sahagún                 León                    20:35  21:08   4.94  
+ 04181 León                    Mieres-Puente           21:10  22:39  13.34  
+ 04181 Mieres-Puente           Oviedo                  22:40  23:00   3.00  
+ 04181 Oviedo                  Gijón-Cercanías         23:02  23:29   4.05  
+ 04183 Alacant-Terminal        Elda-Petrer             14:05  14:26   2.61  
+ 04183 Elda-Petrer             Villena                 14:27  14:36   1.12  
+ 04183 Villena                 Albacete                14:37  15:20   5.33  
+ 04183 Albacete                Alcázar de San Juan     15:22  16:13   6.33  
+ 04183 Alcázar de San Juan     Aranjuez                16:14  16:58   5.46  
+ 04183 Aranjuez                Madrid-Atocha-Cercanías 16:59  17:32   4.09  
+ 04183 Madrid-Atocha-Cercanías Madrid-Chamartín        17:34  17:47   1.61  
+ 04183 Madrid-Chamartín        Segovia AVE             18:05  18:39   4.22  
+ 04183 Segovia AVE             Valladolid-Campo Grande 18:41  19:24   5.33  
+ 04183 Valladolid-Campo Grande Palencia                19:26  19:57   3.85  
+ 04183 Palencia                Aguilar de Campoo       19:59  21:00   7.57  
+ 04183 Aguilar de Campoo       Reinosa                 21:01  21:26   3.10  
+ 04183 Reinosa                 Torrelavega             21:27  22:16   6.08  
+ 04183 Torrelavega             Santander               22:17  22:42   3.10  
+ 04209 Madrid-Chamartín        Segovia AVE             20:40  21:10  14.40  
+ 04209 Segovia AVE             Valladolid-Campo Grande 21:12  21:47  16.80  
+ 08000 Palencia                Venta de Baños          06:40  06:49   0.91  
+ 08000 Venta de Baños          Valladolid-Campo Grande 06:50  07:10   2.03  
+ 08000 Valladolid-Campo Grande Medina del Campo        07:11  07:34   2.33  
+ 08000 Medina del Campo        Arévalo                 07:35  07:52   1.72  
+ 08000 Arévalo                 Ávila                   07:52  08:19   2.74  
+ 08000 Ávila                   Madrid-Chamartín        08:20  09:45   8.62  
+ 08002 León                    Sahagún                 07:10  07:41   2.26  
+ 08002 Sahagún                 Villada                 07:42  07:50   0.58  
+ 08002 Villada                 Paredes de Nava         07:50  08:03   0.95  
+ 08002 Paredes de Nava         Palencia                08:03  08:14   0.80  
+ 08002 Palencia                Venta de Baños          08:15  08:24   0.66  
+ 08002 Venta de Baños          Valladolid-Campo Grande 08:25  08:45   1.46  
+ 08002 Valladolid-Campo Grande Medina del Campo        08:46  09:09   1.67  
+ 08002 Medina del Campo        Arévalo                 09:10  09:27   1.24  
+ 08002 Arévalo                 Ávila                   09:27  09:54   1.97  
+ 08002 Ávila                   Madrid-Chamartín        09:55  11:28   6.77  
+ 08010 Miranda de Ebro         Briviesca               07:43  08:11   2.60  
+ 08010 Briviesca               Burgos                  08:11  08:43   2.97  
+ 08010 Burgos                  Palencia                08:44  09:30   4.27  
+ 08010 Palencia                Venta de Baños          09:34  09:43   0.83  
+ 08010 Venta de Baños          Valladolid-Campo Grande 09:44  10:04   1.85  
+ 08010 Valladolid-Campo Grande Medina del Campo        10:05  10:29   2.23  
+ 08010 Medina del Campo        Arévalo                 10:30  10:47   1.58  
+ 08010 Arévalo                 Ávila                   10:47  11:14   2.50  
+ 08010 Ávila                   Herradón-La Cañada      11:15  11:32   1.58  
+ 08010 Herradón-La Cañada      Navalperal de Pinares   11:32  11:39   0.65  
+ 08010 Navalperal de Pinares   Las Navas del Marqués   11:39  11:44   0.46  
+ 08010 Las Navas del Marqués   Santa María de la Alameda 11:44  11:54   0.93  
+ 08010 Santa María de la Alameda Robledo de Chavela (apt-cgd) 11:54  12:00   0.56  
+ 08010 Robledo de Chavela (apt-cgd) Zarzalejo (apt)         12:00  12:07   0.65  
+ 08010 Zarzalejo (apt)         El Escorial             12:07  12:12   0.46  
+ 08010 El Escorial             Villalba de Guadarrama  12:12  12:24   1.11  
+ 08010 Villalba de Guadarrama  Madrid-Chamartín        12:24  12:55   2.87  

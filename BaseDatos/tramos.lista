@@ -1,0 +1,212 @@
+ ------------------------------------------------------------------------------------------------------------------ 
+ ID    Origen                    Destino                   Inicio      Fin      Duracion      Distancia      Precio 
+ ------------------------------------------------------------------------------------------------------------------ 
+ 00530 Salamanca                 Cantalapiedra             08:00       08:28    28            43.05          1.98  
+ 00530 Cantalapiedra             Medina del Campo          08:29       08:49    20            30.68          1.41  
+ 00530 Medina del Campo          Valladolid-Campo Grande   08:50       09:16    26            39.32          1.84  
+ 00530 Valladolid-Campo Grande   Burgos                    09:18       10:26    68            114.15         4.80  
+ 00530 Burgos                    Miranda de Ebro           10:28       11:33    65            73.55          4.59  
+ 00530 Miranda de Ebro           Haro                      11:51       12:08    17            14.44          1.20  
+ 00530 Haro                      Logroño                   12:09       12:44    35            36.11          2.47  
+ 00530 Logroño                   Calahorra                 12:46       13:16    30            42.98          2.12  
+ 00530 Calahorra                 Alfaro                    13:17       13:29    12            22.31          0.85  
+ 00530 Alfaro                    Castejón de Ebro          13:30       13:36    6             4.48           0.42  
+ 00530 Castejón de Ebro          Tudela                    13:45       14:00    15            14.98          1.06  
+ 00530 Tudela                    Zaragoza-Delicias         14:01       14:40    39            72.31          2.75  
+ 00530 Zaragoza-Delicias         Monzón - Río Cinca        14:45       16:13    88            96.54          6.21  
+ 00530 Monzón - Río Cinca        Lleida                    16:15       16:49    34            48.65          2.40  
+ 00530 Lleida                    Reus                      16:51       18:01    70            64.37          4.94  
+ 00530 Reus                      Tarragona                 18:03       18:14    11            11.65          0.78  
+ 00530 Tarragona                 Barcelona-Sants           18:16       19:21    65            81.80          4.59  
+ 00533 Barcelona-Sants           Tarragona                 12:30       13:25    55            81.80          4.10  
+ 00533 Tarragona                 Reus                      13:27       13:39    12            11.65          0.90  
+ 00533 Reus                      Lleida                    13:41       14:39    58            64.37          4.33  
+ 00533 Lleida                    Monzón - Río Cinca        14:41       15:24    43            48.65          3.21  
+ 00533 Monzón - Río Cinca        Zaragoza-Delicias         15:26       16:43    77            96.54          5.75  
+ 00533 Zaragoza-Delicias         Tudela                    16:48       17:23    35            72.31          2.61  
+ 00533 Tudela                    Castejón de Ebro          17:24       17:37    13            14.98          0.97  
+ 00533 Castejón de Ebro          Alfaro                    17:55       18:01    6             4.48           0.45  
+ 00533 Alfaro                    Calahorra                 18:02       18:14    12            22.31          0.90  
+ 00533 Calahorra                 Logroño                   18:15       18:46    31            42.98          2.31  
+ 00533 Logroño                   Haro                      18:48       19:24    36            36.11          2.69  
+ 00533 Haro                      Miranda de Ebro           19:25       19:43    18            14.44          1.34  
+ 00533 Miranda de Ebro           Burgos                    20:05       21:04    59            73.55          4.40  
+ 00533 Burgos                    Valladolid-Campo Grande   21:06       22:15    69            114.15         5.15  
+ 00533 Valladolid-Campo Grande   Medina del Campo          22:17       22:39    22            39.32          1.64  
+ 00533 Medina del Campo          Cantalapiedra             22:40       23:00    20            30.68          1.49  
+ 00533 Cantalapiedra             Salamanca                 23:01       23:30    29            43.05          2.16  
+ 00620 A Coruña-San Cristóbal    Betanzos-Infesta          07:05       07:29    24            17.51          1.28  
+ 00620 Betanzos-Infesta          Curtis                    07:30       08:01    31            17.08          1.66  
+ 00620 Curtis                    Guitiriz                  08:02       08:20    18            21.29          0.96  
+ 00620 Guitiriz                  Lugo                      08:21       08:52    31            33.26          1.66  
+ 00620 Lugo                      Sarriá                    08:53       09:25    32            28.05          1.71  
+ 00620 Sarriá                    Monforte de Lemos         09:26       09:56    30            29.06          1.60  
+ 00620 Monforte de Lemos         San Clodio-Quiroga        10:15       10:37    22            18.91          1.18  
+ 00620 San Clodio-Quiroga        A Rua Petín               10:38       10:57    19            16.65          1.02  
+ 00620 A Rua Petín               O Barco de Valdeorras     10:58       11:07    9             10.83          0.48  
+ 00620 O Barco de Valdeorras     Ponferrada                11:08       11:41    33            34.62          1.77  
+ 00620 Ponferrada                Bembibre                  11:42       11:55    13            16.20          0.70  
+ 00620 Bembibre                  Astorga                   11:56       12:37    41            35.09          2.19  
+ 00620 Astorga                   León                      12:38       13:08    30            42.22          1.60  
+ 00620 León                      Sahagún                   13:21       13:50    29            52.08          1.55  
+ 00620 Sahagún                   Palencia                  13:51       14:22    31            56.33          1.66  
+ 00620 Palencia                  Burgos                    14:23       15:06    43            76.87          2.30  
+ 00620 Burgos                    Miranda de Ebro           15:07       16:00    53            73.55          2.84  
+ 00620 Miranda de Ebro           Vitoria/Gasteiz           16:01       16:22    21            28.20          1.12  
+ 00620 Vitoria/Gasteiz           Pamplona                  16:23       17:16    53            82.66          2.84  
+ 00620 Pamplona                  Tafalla                   17:17       17:50    33            33.36          1.77  
+ 00620 Tafalla                   Castejón de Ebro          17:51       18:15    24            39.43          1.28  
+ 00620 Castejón de Ebro          Tudela                    18:16       18:26    10            14.98          0.53  
+ 00620 Tudela                    Zaragoza-Delicias         18:27       19:05    38            72.31          2.03  
+ 00620 Zaragoza-Delicias         Tardienta                 19:08       20:00    52            47.05          2.78  
+ 00620 Tardienta                 Monzón - Río Cinca        20:01       20:36    35            61.52          1.87  
+ 00620 Monzón - Río Cinca        Lleida                    20:38       21:12    34            48.65          1.82  
+ 00620 Lleida                    Valls                     21:14       22:04    50            63.90          2.67  
+ 00620 Valls                     Sant Vicenç de Calders    22:06       22:26    20            23.47          1.07  
+ 00620 Sant Vicenç de Calders    Barcelona-Sants           22:27       23:24    57            55.23          3.05  
+ 00623 Barcelona-Sants           Sant Vicenç de Calders    07:03       07:43    40            55.23          2.27  
+ 00623 Sant Vicenç de Calders    Valls                     07:44       08:02    18            23.47          1.02  
+ 00623 Valls                     Lleida                    08:04       08:55    51            63.90          2.89  
+ 00623 Lleida                    Monzón - Río Cinca        08:57       09:32    35            48.65          1.98  
+ 00623 Monzón - Río Cinca        Tardienta                 09:34       10:08    34            61.52          1.93  
+ 00623 Tardienta                 Zaragoza-Delicias         10:09       10:45    36            47.05          2.04  
+ 00623 Zaragoza-Delicias         Tudela                    10:50       11:28    38            72.31          2.15  
+ 00623 Tudela                    Castejón de Ebro          11:29       11:40    11            14.98          0.62  
+ 00623 Castejón de Ebro          Tafalla                   11:41       12:05    24            39.43          1.36  
+ 00623 Tafalla                   Pamplona                  12:06       12:35    29            33.36          1.64  
+ 00623 Pamplona                  Vitoria/Gasteiz           12:36       13:24    48            82.66          2.72  
+ 00623 Vitoria/Gasteiz           Miranda de Ebro           13:25       13:44    19            28.20          1.08  
+ 00623 Miranda de Ebro           Burgos                    13:45       14:41    56            73.55          3.17  
+ 00623 Burgos                    Palencia                  14:42       15:30    48            76.87          2.72  
+ 00623 Palencia                  Sahagún                   15:31       16:03    32            56.33          1.81  
+ 00623 Sahagún                   León                      16:04       16:37    33            52.08          1.87  
+ 00623 León                      Astorga                   16:40       17:09    29            42.22          1.64  
+ 00623 Astorga                   Bembibre                  17:10       17:55    45            35.09          2.55  
+ 00623 Bembibre                  Ponferrada                17:56       18:10    14            16.20          0.79  
+ 00623 Ponferrada                O Barco de Valdeorras     18:11       18:45    34            34.62          1.93  
+ 00623 O Barco de Valdeorras     A Rua Petín               18:46       18:56    10            10.83          0.57  
+ 00623 A Rua Petín               San Clodio-Quiroga        18:57       19:17    20            16.65          1.13  
+ 00623 San Clodio-Quiroga        Monforte de Lemos         19:18       19:42    24            18.91          1.36  
+ 00623 Monforte de Lemos         Sarriá                    19:53       20:19    26            29.06          1.47  
+ 00623 Sarriá                    Lugo                      20:20       20:57    37            28.05          2.10  
+ 00623 Lugo                      Guitiriz                  20:59       21:27    28            33.26          1.59  
+ 00623 Guitiriz                  Curtis                    21:28       21:46    18            21.29          1.02  
+ 00623 Curtis                    Betanzos-Infesta          21:47       22:15    28            17.08          1.59  
+ 00751 Madrid-Chamartín          Ávila                     22:10       23:34    84            87.07          7.80  
+ 00751 Ávila                     Medina del Campo          23:36       00:14    38            75.92          3.53  
+ 00751 Medina del Campo          Valladolid-Campo Grande   00:15       00:35    20            39.32          1.86  
+ 00751 Valladolid-Campo Grande   Venta de Baños            00:37       00:55    18            35.35          1.67  
+ 00751 Venta de Baños            Palencia                  00:56       01:02    6             11.71          0.56  
+ 00751 Palencia                  León                      01:04       02:02    58            107.60         5.39  
+ 00751 León                      Veguellina de Órbigo      02:04       02:24    20            32.20          1.86  
+ 00751 Veguellina de Órbigo      Astorga                   02:25       02:34    9             13.44          0.84  
+ 00751 Astorga                   Bembibre                  02:35       03:19    44            35.09          4.09  
+ 00751 Bembibre                  Ponferrada                03:20       03:35    15            16.20          1.39  
+ 00751 Ponferrada                O Barco de Valdeorras     03:36       04:18    42            34.62          3.90  
+ 00751 O Barco de Valdeorras     A Rua Petín               04:19       04:30    11            10.83          1.02  
+ 00751 A Rua Petín               San Clodio-Quiroga        04:31       04:53    22            16.65          2.04  
+ 00751 San Clodio-Quiroga        Monforte de Lemos         04:54       05:21    27            18.91          2.51  
+ 00751 Monforte de Lemos         Sarriá                    05:41       06:07    26            29.06          2.41  
+ 00751 Sarriá                    Lugo                      06:08       06:38    30            28.05          2.79  
+ 00751 Lugo                      Guitiriz                  06:40       07:09    29            33.26          2.69  
+ 00751 Guitiriz                  Curtis                    07:10       07:27    17            21.29          1.58  
+ 00751 Curtis                    Betanzos-Infesta          07:29       07:53    24            17.08          2.23  
+ 00751 Betanzos-Infesta          Betanzos-Cidade           07:54       08:19    25            1.77           2.32  
+ 00751 Betanzos-Cidade           Pontedeume                08:20       08:38    18            14.56          1.67  
+ 00751 Pontedeume                Ferrol                    08:39       09:00    21            9.41           1.95  
+ 00752 Ferrol                    Pontedeume                21:00       21:22    22            9.41           2.01  
+ 00752 Pontedeume                Betanzos-Cidade           21:23       21:45    22            14.56          2.01  
+ 00752 Betanzos-Cidade           Betanzos-Infesta          21:46       21:54    8             1.77           0.73  
+ 00752 Betanzos-Infesta          Curtis                    21:55       22:19    24            17.08          2.19  
+ 00752 Curtis                    Guitiriz                  22:20       22:37    17            21.29          1.55  
+ 00752 Guitiriz                  Lugo                      22:38       23:06    28            33.26          2.55  
+ 00752 Lugo                      Sarriá                    23:07       23:36    29            28.05          2.65  
+ 00752 Sarriá                    Monforte de Lemos         23:37       00:06    29            29.06          2.65  
+ 00752 Monforte de Lemos         San Clodio-Quiroga        00:26       00:50    24            18.91          2.19  
+ 00752 San Clodio-Quiroga        A Rua Petín               00:51       01:12    21            16.65          1.92  
+ 00752 A Rua Petín               O Barco de Valdeorras     01:13       01:24    11            10.83          1.00  
+ 00752 O Barco de Valdeorras     Ponferrada                01:25       02:02    37            34.62          3.38  
+ 00752 Ponferrada                Bembibre                  02:03       02:17    14            16.20          1.28  
+ 00752 Bembibre                  Astorga                   02:18       03:01    43            35.09          3.92  
+ 00752 Astorga                   Veguellina de Órbigo      03:02       03:11    9             13.44          0.82  
+ 00752 Veguellina de Órbigo      León                      03:12       03:32    20            32.20          1.82  
+ 00752 León                      Palencia                  03:34       04:32    58            107.60         5.29  
+ 00752 Palencia                  Venta de Baños            04:34       04:44    10            11.71          0.91  
+ 00752 Venta de Baños            Valladolid-Campo Grande   04:45       05:05    20            35.35          1.82  
+ 00752 Valladolid-Campo Grande   Medina del Campo          05:07       05:29    22            39.32          2.01  
+ 00752 Medina del Campo          Ávila                     05:31       06:16    45            75.92          4.10  
+ 00752 Ávila                     Madrid-Chamartín          06:18       08:00    102           87.07          9.30  
+ 00920 A Coruña-San Cristóbal    Betanzos-Infesta          18:00       18:27    27            17.51          1.34  
+ 00920 Betanzos-Infesta          Curtis                    18:28       18:55    27            17.08          1.34  
+ 00920 Curtis                    Lugo                      18:56       19:48    52            49.94          2.59  
+ 00920 Lugo                      Sarriá                    19:50       20:20    30            28.05          1.49  
+ 00920 Sarriá                    Monforte de Lemos         20:21       20:52    31            29.06          1.54  
+ 00920 Monforte de Lemos         San Clodio-Quiroga        21:10       21:34    24            18.91          1.20  
+ 00920 San Clodio-Quiroga        A Rua Petín               21:35       21:56    21            16.65          1.05  
+ 00920 A Rua Petín               O Barco de Valdeorras     21:57       22:08    11            10.83          0.55  
+ 00920 O Barco de Valdeorras     Ponferrada                22:09       22:46    37            34.62          1.84  
+ 00920 Ponferrada                Astorga                   22:47       23:47    60            46.50          2.99  
+ 00920 Astorga                   León                      23:48       00:20    32            42.22          1.59  
+ 00920 León                      Palencia                  00:25       01:28    63            107.60         3.14  
+ 00920 Palencia                  Burgos                    01:30       02:15    45            76.87          2.24  
+ 00920 Burgos                    Logroño                   02:17       04:02    105           104.85         5.23  
+ 00920 Logroño                   Castejón de Ebro          04:04       04:56    52            69.09          2.59  
+ 00920 Castejón de Ebro          Tudela                    04:57       05:09    12            14.98          0.60  
+ 00920 Tudela                    Zaragoza-Delicias         05:10       05:55    45            72.31          2.24  
+ 00920 Zaragoza-Delicias         Monzón - Río Cinca        06:00       07:16    76            96.54          3.78  
+ 00920 Monzón - Río Cinca        Lleida                    07:17       08:01    44            48.65          2.19  
+ 00920 Lleida                    Reus                      08:03       09:24    81            64.37          4.03  
+ 00920 Reus                      Tarragona                 09:26       09:42    16            11.65          0.80  
+ 00920 Tarragona                 Barcelona-Sants           09:43       11:08    85            81.80          4.23  
+ 00923 Barcelona-Sants           Tarragona                 20:00       20:54    54            81.80          2.88  
+ 00923 Tarragona                 Reus                      20:56       21:08    12            11.65          0.64  
+ 00923 Reus                      Lleida                    21:10       22:17    67            64.37          3.57  
+ 00923 Lleida                    Monzón - Río Cinca        22:19       22:56    37            48.65          1.97  
+ 00923 Monzón - Río Cinca        Zaragoza-Delicias         22:57       00:10    73            96.54          3.89  
+ 00923 Zaragoza-Delicias         Tudela                    00:15       00:53    38            72.31          2.03  
+ 00923 Tudela                    Castejón de Ebro          00:54       01:05    11            14.98          0.59  
+ 00923 Castejón de Ebro          Logroño                   01:06       01:56    50            69.09          2.66  
+ 00923 Logroño                   Burgos                    01:58       03:41    103           104.85         5.49  
+ 00923 Burgos                    Palencia                  03:43       04:28    45            76.87          2.40  
+ 00923 Palencia                  León                      04:30       05:35    65            107.60         3.46  
+ 00923 León                      Astorga                   05:40       06:08    28            42.22          1.49  
+ 00923 Astorga                   Ponferrada                06:09       07:11    62            46.50          3.30  
+ 00923 Ponferrada                O Barco de Valdeorras     07:12       07:51    39            34.62          2.08  
+ 00923 O Barco de Valdeorras     A Rua Petín               07:52       08:02    10            10.83          0.53  
+ 00923 A Rua Petín               San Clodio-Quiroga        08:03       08:24    21            16.65          1.12  
+ 00923 San Clodio-Quiroga        Monforte de Lemos         08:25       08:50    25            18.91          1.33  
+ 00923 Monforte de Lemos         Sarriá                    09:14       09:47    33            29.06          1.76  
+ 00923 Sarriá                    Lugo                      09:48       10:22    34            28.05          1.81  
+ 00923 Lugo                      Curtis                    10:24       11:12    48            49.94          2.56  
+ 00923 Curtis                    Betanzos-Infesta          11:13       11:40    27            17.08          1.44  
+ 00923 Betanzos-Infesta          A Coruña-San Cristóbal    11:41       12:11    30            17.51          1.60  
+ 00930 Salamanca                 Cantalapiedra             20:25       20:51    26            43.05          1.73  
+ 00930 Cantalapiedra             Medina del Campo          20:52       21:15    23            30.68          1.53  
+ 00930 Medina del Campo          Valladolid-Campo Grande   21:17       21:39    22            39.32          1.46  
+ 00930 Valladolid-Campo Grande   Palencia                  21:41       22:16    35            44.46          2.33  
+ 00930 Palencia                  Burgos                    22:40       23:23    43            76.87          2.86  
+ 00930 Burgos                    Miranda de Ebro           23:24       00:18    54            73.55          3.59  
+ 00930 Miranda de Ebro           Logroño                   00:43       01:40    57            48.95          3.79  
+ 00930 Logroño                   Calahorra                 01:41       02:15    34            42.98          2.26  
+ 00930 Calahorra                 Castejón de Ebro          02:16       02:33    17            26.55          1.13  
+ 00930 Castejón de Ebro          Tudela                    02:53       03:03    10            14.98          0.67  
+ 00930 Tudela                    Zaragoza-Delicias         03:04       03:16    12            72.31          0.80  
+ 00930 Zaragoza-Delicias         Monzón - Río Cinca        03:17       05:21    124           96.54          8.25  
+ 00930 Monzón - Río Cinca        Lleida                    05:22       06:12    50            48.65          3.33  
+ 00930 Lleida                    Reus                      06:14       07:17    63            64.37          4.19  
+ 00930 Reus                      Tarragona                 07:19       07:34    15            11.65          1.00  
+ 00930 Tarragona                 Sant Vicenç de Calders    07:36       07:58    22            26.59          1.46  
+ 00930 Sant Vicenç de Calders    Barcelona-Sants           08:00       09:00    60            55.23          3.99  
+ 00933 Barcelona-Sants           Sant Vicenç de Calders    22:00       22:41    41            55.23          2.81  
+ 00933 Sant Vicenç de Calders    Sant Vicenç de Calders    22:42       22:58    16            26.59          1.10  
+ 00933 Sant Vicenç de Calders    Sant Vicenç de Calders    23:00       23:13    13            11.65          0.89  
+ 00933 Sant Vicenç de Calders    Sant Vicenç de Calders    23:14       00:13    59            64.37          4.05  
+ 00933 Sant Vicenç de Calders    Sant Vicenç de Calders    00:15       00:54    39            48.65          2.68  
+ 00933 Sant Vicenç de Calders    Sant Vicenç de Calders    00:55       02:14    79            96.54          5.42  
+ 00933 Sant Vicenç de Calders    Sant Vicenç de Calders    02:15       03:05    50            72.31          3.43  
+ 00933 Sant Vicenç de Calders    Sant Vicenç de Calders    03:06       03:16    10            14.98          0.69  
+ 00933 Sant Vicenç de Calders    Sant Vicenç de Calders    03:24       03:42    18            26.55          1.24  
+ 00933 Sant Vicenç de Calders    Sant Vicenç de Calders    03:43       04:18    35            42.98          2.40  
+ 00933 Sant Vicenç de Calders    Sant Vicenç de Calders    04:20       05:24    64            48.95          4.39  
+ 00933 Sant Vicenç de Calders    Sant Vicenç de Calders    05:44       06:53    69            73.55          4.74  
+ 00933 Sant Vicenç de Calders    Sant Vicenç de Calders    06:54       07:45    51            76.

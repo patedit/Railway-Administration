@@ -1,0 +1,48 @@
+# Project: PlanViaje
+# Makefile created by Dev-C++ 4.9.9.2
+
+CPP  = g++.exe
+CC   = gcc.exe
+WINDRES = windres.exe
+RES  = 
+OBJ  = mainPlanViaje.o Grafo.o funcionesAds.o Dijkstra.o Mostrar_Ruta.o ../CodComun/func_auxiliares.o fp063_ampliacion.o $(RES)
+LINKOBJ  = mainPlanViaje.o Grafo.o funcionesAds.o Dijkstra.o Mostrar_Ruta.o ../CodComun/func_auxiliares.o fp063_ampliacion.o $(RES)
+LIBS =  -L"C:/Dev-Cpp/lib"  
+INCS =  -I"C:/Dev-Cpp/include" 
+CXXINCS =  -I"C:/Dev-Cpp/lib/gcc/mingw32/3.4.2/include"  -I"C:/Dev-Cpp/include/c++/3.4.2/backward"  -I"C:/Dev-Cpp/include/c++/3.4.2/mingw32"  -I"C:/Dev-Cpp/include/c++/3.4.2"  -I"C:/Dev-Cpp/include" 
+BIN  = PlanViaje.exe
+CXXFLAGS = $(CXXINCS)  
+CFLAGS = $(INCS)  
+RM = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before PlanViaje.exe all-after
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CC) $(LINKOBJ) -o "PlanViaje.exe" $(LIBS)
+
+mainPlanViaje.o: mainPlanViaje.c
+	$(CC) -c mainPlanViaje.c -o mainPlanViaje.o $(CFLAGS)
+
+Grafo.o: Grafo.c
+	$(CC) -c Grafo.c -o Grafo.o $(CFLAGS)
+
+funcionesAds.o: funcionesAds.c
+	$(CC) -c funcionesAds.c -o funcionesAds.o $(CFLAGS)
+
+Dijkstra.o: Dijkstra.c
+	$(CC) -c Dijkstra.c -o Dijkstra.o $(CFLAGS)
+
+Mostrar_Ruta.o: Mostrar_Ruta.c
+	$(CC) -c Mostrar_Ruta.c -o Mostrar_Ruta.o $(CFLAGS)
+
+../CodComun/func_auxiliares.o: ../CodComun/func_auxiliares.c
+	$(CC) -c ../CodComun/func_auxiliares.c -o ../CodComun/func_auxiliares.o $(CFLAGS)
+
+fp063_ampliacion.o: fp063_ampliacion.c
+	$(CC) -c fp063_ampliacion.c -o fp063_ampliacion.o $(CFLAGS)
